@@ -20,18 +20,6 @@
  * Swiper 8.4.5
  * Most modern mobile touch slider and framework with hardware accelerated transitions
  * 
-/* ========================================= */
-/* CORREÇÃO FORÇADA PARA CARROSSEL NO MOBILE */
-/* ========================================= */
-
-@media (max-width: 768px) {
-  .kit-slider .slick-slide img {
-    display: block !important;
-    visibility: visible !important;
-    height: auto !important;
-    opacity: 1 !important;
-  }
-}
  *
  * 
  *
